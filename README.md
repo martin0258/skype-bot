@@ -6,7 +6,8 @@ Send a message to a Skype chat automatically.
 Installation
 ============
 ### Prerequisite
-Have Skype Linux version installed.
+* Have Skype Linux version installed.
+* Have [Skype4Py](https://github.com/awahlig/skype4py) installed.
 
 ### Steps
 
