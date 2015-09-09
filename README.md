@@ -1,7 +1,7 @@
 Skype Bot
 =========
 
-Send a message to a Skype chat automatically.
+Send messages to a Skype chat automatically.
 
 Installation
 ============
